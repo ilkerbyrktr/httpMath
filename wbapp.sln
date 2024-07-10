@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wbapp", "wbapp\wbapp.csproj", "{942F80CC-9F03-4694-BE39-735D066CD18A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{942F80CC-9F03-4694-BE39-735D066CD18A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{942F80CC-9F03-4694-BE39-735D066CD18A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{942F80CC-9F03-4694-BE39-735D066CD18A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{942F80CC-9F03-4694-BE39-735D066CD18A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {373AA7DA-8E51-4195-BA91-764F167C6C92}
+	EndGlobalSection
+EndGlobal
